@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Top Quant Open Source">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0a0e14"/></linearGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d2b7ff"/><stop offset="0.6" stop-color="#a371f7"/><stop offset="1" stop-color="#6e40c9"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a371f7" stop-opacity="0.9"/><stop offset="1" stop-color="#6e40c9" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="340" fill="url(#bg)"/>
+<g opacity="0.9"><polyline points="1205,26 1223,33 1240,26" fill="none" stroke="#6e40c9" stroke-width="3" stroke-opacity="0.55"/>
+<polyline points="1214,41 1227,48 1240,41" fill="none" stroke="#8957e5" stroke-width="3" stroke-opacity="0.55"/>
+<polyline points="1210,56 1225,63 1240,56" fill="none" stroke="#a371f7" stroke-width="3" stroke-opacity="0.55"/>
+<polyline points="1213,71 1227,78 1240,71" fill="none" stroke="#8957e5" stroke-width="3" stroke-opacity="0.55"/>
+<polyline points="1204,86 1222,93 1240,86" fill="none" stroke="#4c2889" stroke-width="3" stroke-opacity="0.55"/>
+<polyline points="1213,101 1227,108 1240,101" fill="none" stroke="#8957e5" stroke-width="3" stroke-opacity="0.55"/>
+<rect x="60" y="310" width="22" height="3" rx="1.5" fill="#8957e5" fill-opacity="0.22"/>
+<rect x="98" y="310" width="22" height="3" rx="1.5" fill="#4c2889" fill-opacity="0.33"/>
+<rect x="136" y="310" width="22" height="3" rx="1.5" fill="#8957e5" fill-opacity="0.23"/>
+<rect x="174" y="310" width="22" height="3" rx="1.5" fill="#6e40c9" fill-opacity="0.24"/>
+<rect x="212" y="310" width="22" height="3" rx="1.5" fill="#a371f7" fill-opacity="0.29"/>
+<rect x="250" y="310" width="22" height="3" rx="1.5" fill="#4c2889" fill-opacity="0.29"/>
+<rect x="288" y="310" width="22" height="3" rx="1.5" fill="#4c2889" fill-opacity="0.29"/>
+<rect x="326" y="310" width="22" height="3" rx="1.5" fill="#d2b7ff" fill-opacity="0.37"/>
+<rect x="364" y="310" width="22" height="3" rx="1.5" fill="#4c2889" fill-opacity="0.20"/>
+<rect x="402" y="310" width="22" height="3" rx="1.5" fill="#d2b7ff" fill-opacity="0.37"/>
+<rect x="440" y="310" width="22" height="3" rx="1.5" fill="#c297ff" fill-opacity="0.28"/>
+<rect x="478" y="310" width="22" height="3" rx="1.5" fill="#4c2889" fill-opacity="0.18"/>
+<rect x="516" y="310" width="22" height="3" rx="1.5" fill="#d2b7ff" fill-opacity="0.33"/>
+<rect x="554" y="310" width="22" height="3" rx="1.5" fill="#6e40c9" fill-opacity="0.31"/>
+<rect x="592" y="310" width="22" height="3" rx="1.5" fill="#6e40c9" fill-opacity="0.36"/>
+<rect x="630" y="310" width="22" height="3" rx="1.5" fill="#a371f7" fill-opacity="0.19"/>
+<rect x="668" y="310" width="22" height="3" rx="1.5" fill="#4c2889" fill-opacity="0.30"/>
+<rect x="706" y="310" width="22" height="3" rx="1.5" fill="#a371f7" fill-opacity="0.33"/>
+<rect x="744" y="310" width="22" height="3" rx="1.5" fill="#6e40c9" fill-opacity="0.33"/>
+<rect x="782" y="310" width="22" height="3" rx="1.5" fill="#d2b7ff" fill-opacity="0.21"/>
+<rect x="820" y="310" width="22" height="3" rx="1.5" fill="#4c2889" fill-opacity="0.22"/>
+<rect x="858" y="310" width="22" height="3" rx="1.5" fill="#a371f7" fill-opacity="0.20"/>
+<rect x="896" y="310" width="22" height="3" rx="1.5" fill="#c297ff" fill-opacity="0.33"/>
+<rect x="934" y="310" width="22" height="3" rx="1.5" fill="#8957e5" fill-opacity="0.28"/>
+<rect x="972" y="310" width="22" height="3" rx="1.5" fill="#a371f7" fill-opacity="0.22"/>
+<rect x="1010" y="310" width="22" height="3" rx="1.5" fill="#d2b7ff" fill-opacity="0.32"/>
+<rect x="1048" y="310" width="22" height="3" rx="1.5" fill="#c297ff" fill-opacity="0.33"/>
+<rect x="1086" y="310" width="22" height="3" rx="1.5" fill="#c297ff" fill-opacity="0.31"/>
+<rect x="1124" y="310" width="22" height="3" rx="1.5" fill="#c297ff" fill-opacity="0.23"/>
+<rect x="1162" y="310" width="22" height="3" rx="1.5" fill="#6e40c9" fill-opacity="0.22"/></g><g><polygon points="60,80 92,60 124,80 124,88 92,68 60,88" fill="#c297ff"/>
+<polygon points="60,116 92,96 124,116 124,124 92,104 60,124" fill="#c297ff"/>
+<polygon points="60,152 92,132 124,152 124,160 92,140 60,160" fill="#6e40c9"/>
+<polygon points="60,188 92,168 124,188 124,196 92,176 60,196" fill="#8957e5"/>
+<polygon points="60,224 92,204 124,224 124,232 92,212 60,232" fill="#a371f7"/></g>
+  <text x="178" y="179" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="88" font-weight="800" fill="url(#word)" letter-spacing="-1">Top Quant Open Source</text>
+  <rect x="181" y="193" width="420" height="3" rx="1.5" fill="url(#rule)"/>
+  <text x="181" y="227" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="600" fill="#c9d1d9">Open-source quant trading tools: backtesting engines, live trading frameworks, factor research, market data and portfolio libraries, ranked by GitHub stars</text>
+  <text x="181" y="269" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#58a6ff">★ 60 entries · 794.3k stars · EN + ZH · rebuilt daily</text>
+</svg>
